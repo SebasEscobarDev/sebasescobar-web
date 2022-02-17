@@ -1,0 +1,98 @@
+.en{
+	display: none;
+}
+body{
+  font-family: 'Roboto Slab', serif;
+  margin: 0px;
+  background: url("../images/developer01.jpg") fixed;
+  background-size: 30%;
+  background-position-y: -50px;
+  background-repeat: no-repeat;
+  height: 2000px;
+}
+
+header{
+	z-index: 100;
+	width: 88%;
+	display: inline-block;
+	position: fixed;
+	top: 40px;
+	left: 5%;
+	background: #585D65;
+	border-radius: 70px;
+	padding: 13px;
+}
+
+a{
+	text-decoration: none !important;
+	color: #68E0CF;
+}
+
+section{
+	background: #373B40;
+	display: inline-block;
+	position: relative;
+	margin-left: 30%;
+	padding-top: 18%;
+	padding-right: 90px;
+}
+
+.top-link{
+	display: inline-block;
+  float: left;
+  padding-top: 12px;
+  color: white;
+  width: 10%;
+  text-align: center;
+  font-family: 'Roboto Slab', serif;
+  font-size: 20px;
+  line-height: 16px;
+}
+nav{
+	display: inline-block;
+	width: 90%;
+	margin-left: -5px;
+	display: inline-block;
+}
+
+nav li{
+	display: inline-block;
+}
+
+nav ul{
+	float: right;
+}
+
+.top-link span{
+	padding-left: 20px;
+}
+
+.download-cv a{
+	top: 2px;
+	right: -8px;
+	padding: 20px 30px;
+	border-radius: 50px;
+	border: 2px solid #68E0CF;
+	position: relative;
+}
+
+.titulo-desarrollador{
+	position: relative;
+	display: inline-block;
+	width: 220px;
+	height: 220px;
+	background: #454c54;
+	border-radius: 100%;
+	text-align: center;
+	color: white;
+	margin-left: -110px;
+}
+
+.titulo-desarrollador span{
+	line-height: 45px;
+	position: absolute;
+  left: 25px;
+  top: 60px;
+  font-size: 45px;
+}
+
