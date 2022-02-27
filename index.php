@@ -10,7 +10,7 @@
 	  gtag('config', 'G-J5508E7D1D');
 	</script>
 	<meta charset="utf-8">
-	<title alt="Desarrollador de software, Páginas Webs y Aplicaciónes Móviles">El Mago Informático</title>
+	<title alt="Desarrollador de software, Páginas Webs y Aplicaciónes Móviles">Desarrollo de Software E-Commerce</title>
 	<link rel="icon" type="img/png" href="images/logo.png?v=0.1">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="preconnect" href="https://fonts.googleapis.com">
