@@ -25,7 +25,7 @@
 
 					'img' => 'tienda/200/bg.png',
 
-					'titulo' => 'Desarrollo de tiendas Online',
+					'titulo' => 'Desarrollo de tiendas E-Commerce',
 
 					'subtitulo' => 'Con Wordpress',
 
@@ -72,7 +72,7 @@
 
 					'img' => 'landing/200/bg.png',
 
-					'titulo' => 'Landing pages',
+					'titulo' => 'Landing pages ( SPA )',
 
 					'subtitulo' => 'Páginas de aterrizaje',
 
@@ -92,7 +92,7 @@
 
 					'subtitulo' => 'PWA Apps',
 
-					'texto' => 'Si ya cuenta con un sitio web, implemente su <b>Aplicación web</b> ejecutable para todo dispositivo basada en la web actual.',
+					'texto' => 'Implemente su <b>Aplicación web</b> ejecutable para todo dispositivo basada en la web actual.',
 
 					'boton' => 'Más información'
 
@@ -296,7 +296,7 @@
 
 								<img src="/images/services/<?=$service->img;?>">
 
-								<i><img src="/images/services/<?=$service->icon;?>"></i>
+								<!-- <i><img src="/images/services/<? /* =$service->icon; */ ?>"></i> -->
 
 							</div>
 
@@ -305,12 +305,6 @@
 							<b><?=$service->subtitulo;?></b>
 
 							<p><?=$service->texto;?></p>
-
-							<div class="icon-expanded">
-
-								<?php include 'svgs/arrow-down.php'; ?>
-
-							</div>
 
 						</div>
 

@@ -225,6 +225,8 @@ body{
   overflow-y: scroll;
 
   max-width: 100% !important;
+  
+  margin-bottom: -5px;
 
 }
 
