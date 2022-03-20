@@ -1,7 +1,7 @@
 <?php
 
 $to = 'sebas22185@gmail.com';
-$from = 'contacto@sebasescobar.com';
+$from = 'website@sebasescobar.com';
 $subject = $_POST['fullname'].' / '.$_POST['asunto'];
 
 $name = "<h2><b>Nombre:</b> ".$_POST['fullname']."</h2>";

@@ -4,8 +4,9 @@
 			<div class="row">
 				<div class="col-md-12 col-12 conta-head">
 					<a href="#section-banner" class="dev-ame" alt="Desarrollador Web con más de 5 años de experiencia en Gestión y Analisis de proyectos de software">
-						<img src="images/logo-small.png" alt="Desarrollador Web con más de 6 años de experiencia en Gestión y Analisis de proyectos de software" class="logo-img float-left">
-						<span class="d-none dev-me">Sebas Escobar</span>
+						<img src="images/logo-small.png?v=0.1" alt="Desarrollador Web con más de 6 años de experiencia en Gestión y Analisis de proyectos de software" class="logo-img float-left">
+						<span class="dev-me">Sebas Escobar</span>
+						<span class="dev-me2">Sebas Escobar</span>
 					</a>
 					<div class="button-navigator">
 						<span></span>

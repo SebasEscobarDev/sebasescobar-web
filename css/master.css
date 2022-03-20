@@ -11,6 +11,8 @@
 }
 
 .animation,
+.dev-me,
+.dev-me2,
 
 .dev-ame,
 
@@ -977,11 +979,10 @@ footer form button[type="submit"]{
 
 
 .logo-img{
-
   max-width: 50px;
-
   padding-top: 3px;
-
+  z-index: 3;
+  position: relative;
 }
 
 
@@ -1204,40 +1205,22 @@ END CARDS
 
 
 
-.flip-card-back button{
-
-  border: 0px;
-
-  width: 100%;
-
+.flip-card-back button {
+  left: 0px;
+  top: -10px;
+  width: auto;
   text-decoration: none;
-
-  color: white;
-
-  padding: 0px 5px;
-
+  padding: 17px 20px;
   position: relative;
-
-  background: rgba(255,255,255,0.7);
-
-  display: inline-block;
-
+  background: rgba(0,0,0,0.5);
   z-index: 3;
-
   overflow: hidden;
-
   font-size: 18px;
-
-  color: #01abc1;
-
-  border-radius: 0px;
-
+  color: #ffffff;
+  border-radius: 50px;
   display: inline-block;
-
   margin-top: 20px;
-
-  border: 1px solid white !important;
-
+  border: 1px solid white;
 }
 
 
@@ -2062,11 +2045,13 @@ span.skill-display {
 
   padding: 10px;
 
-  font-size: 13px;
-
   margin-top: 10px;
 
   margin-bottom: 10px;
+
+  font-size: 16px;
+
+  line-height: 20px;
 
 }
 
@@ -2074,22 +2059,44 @@ span.skill-display {
 
 
 
-.dev-me{
-
+.dev-me {
   color: transparent;
-
   font-size: 30px;
-
   letter-spacing: 0px;
-
   font-family: 'Krona One';
-
-  -webkit-text-stroke: 1px white;
-
+  -webkit-text-stroke: 9px #cfcfcf52;
   position: absolute;
+  top: 5px;
+  font-style: italic;
+  left: 8px;
+  background: black;
+  padding-left: 64px;
+  padding-right: 15px;
+  border-radius: 50px;
+  z-index: 1;
+}
 
-  top: 10px;
+.dev-me2 {
+  color: transparent;
+  font-size: 30px;
+  letter-spacing: 0px;
+  font-family: 'Krona One';
+  -webkit-text-stroke: 1.5px #07e51d;
+  position: absolute;
+  top: 5px;
+  font-style: italic;
+  left: 8px;
+  padding-left: 64px;
+  padding-right: 15px;
+  border-radius: 50px;
+  z-index: 2;
+}
 
+.dev-me:hover{
+  -webkit-text-stroke: 9px #07e51d !important;
+}
+.dev-me2:hover{
+  -webkit-text-stroke: 1.5px white !important;
 }
 
 
