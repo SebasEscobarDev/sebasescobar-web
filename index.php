@@ -10,7 +10,7 @@
 	  gtag('config', 'G-J5508E7D1D');
 	</script>
 	<meta charset="utf-8">
-	<title alt="Desarrollador de software, Páginas Webs y Aplicaciónes Móviles">Desarrollo de Software E-Commerce</title>
+	<title alt="Desarrollador de software, e-commerce, Páginas Webs y Aplicaciónes Móviles">Desarrollo de Software E-Commerce</title>
 	<link rel="icon" type="img/png" href="images/logo.png?v=0.2">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -20,7 +20,7 @@
 	<link rel="stylesheet" type="text/css" href="css/banner.css?v=0.0.0.6">
 	<link rel="stylesheet" type="text/css" href="css/loader.css?v=0.1.3.3">
 	<link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css"/>
-	<link rel="stylesheet" type="text/css" href="css/master.css?v=0.4.3.4">
+	<link rel="stylesheet" type="text/css" href="css/master.css?v=0.4.4.7">
 </head>
 <body class="init-animation">
 	<div id="left-first-load-page" class="animation-slide init-animation"></div>
@@ -58,7 +58,7 @@
     <script src="js/simpleparallax.js"></script>
     <script src="js/scrollissimo.min.js"></script>
     <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
-    <script type="text/javascript" src="js/functions.js?v=0.4.2.0"></script>
+    <script type="text/javascript" src="js/functions.js?v=0.4.2.2"></script>
 </body>
 </html>
 <!-- ALSO ASKED .COM -->
