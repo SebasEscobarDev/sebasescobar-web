@@ -2510,6 +2510,10 @@ img#logo-banner {
 
 @media (max-width: 768px){
 
+  .dev-me, .dev-me2{
+    display: none !important;
+  }
+
   .title-page span{
 
     top: 0px !important;

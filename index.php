@@ -19,8 +19,8 @@
 	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 	<link rel="stylesheet" type="text/css" href="css/banner.css?v=0.0.0.6">
 	<link rel="stylesheet" type="text/css" href="css/loader.css?v=0.1.3.3">
-	<link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
-	<link rel="stylesheet" type="text/css" href="css/master.css?v=0.4.3.1">
+	<link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css"/>
+	<link rel="stylesheet" type="text/css" href="css/master.css?v=0.4.3.4">
 </head>
 <body class="init-animation">
 	<div id="left-first-load-page" class="animation-slide init-animation"></div>
