@@ -383,7 +383,7 @@ function show_projects(){
 				'</div>'+
 				'<div class="col enlace-items">'+
 					'<div class="item-links">'+
-						'<span color="#00f900">>.</span> @developer Sebas Escobar.'+
+						'<a name="expert" ><span color="#00f900">>.</span> @developer Sebas Escobar.</a>'+
 					'</div>'+
 				'</div>'+
 			'</div>'+
