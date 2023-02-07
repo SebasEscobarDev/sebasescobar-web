@@ -20,7 +20,7 @@
 	<link rel="stylesheet" type="text/css" href="css/banner.css?v=0.0.0.7">
 	<link rel="stylesheet" type="text/css" href="css/loader.css?v=0.1.3.3">
 	<link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css"/>
-	<link rel="stylesheet" type="text/css" href="css/master.css?v=0.4.4.7">
+	<link rel="stylesheet" type="text/css" href="css/master.css?v=0.4.4.8">
 </head>
 <body class="init-animation">
 	<div id="left-first-load-page" class="animation-slide init-animation"></div>
